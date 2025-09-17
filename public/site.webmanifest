@@ -1,0 +1,27 @@
+{
+  "name": "ClipExplain - AI-Powered Video Explanations",
+  "short_name": "ClipExplain",
+  "description": "Upload any movie clip, TV show scene, or music video and get detailed AI-powered explanations",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6366f1",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "16x16",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "16x16",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "education", "entertainment"],
+  "lang": "en",
+  "dir": "ltr"
+} 

@@ -1,0 +1,22 @@
+Hello everyone
+Our problem statement is number 10
+So the problem statement was identification of personally identifiable information in document and data
+So our approach was that we are developing a website
+which will able to detect PII in the document and data
+with the help of many upcoming technologies such as
+Regex, Spacey and Bert
+and we have used many models to detect the PII in the document
+So this is our home page
+So we have given the name as PII Detection
+and we are majorly focusing on privacy, protection and also in instant results
+So how it works
+So first we will upload the file
+Then the AI will analyze the file
+and provide a PII fields which are
+which are majorly
+its words
+so now we will go beyond the file
+We will outline right
+the file
+that they are never able to identify
+or

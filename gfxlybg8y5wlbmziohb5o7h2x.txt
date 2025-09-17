@@ -1,0 +1,8 @@
+So, hello everyone. Our problem statement is number 10. So, the problem statement was
+identification of personally identifiable information in documented data. So, our approach
+was that we are developing a website which will able to detect PII in the documented data
+with the help of many upcoming technologies such as RIGX, SPAC and BERT and we have used
+many models to detect the PII in the documented data. So, this is our homepage. So, we have
+given the name as PII detection and we are majorly focusing on privacy protection and also
+in instant results. So, it hard works. So, first we will upload the file then the AI will
+analyze the file and provide a PII fields which are majorly
