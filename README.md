@@ -1,4 +1,5 @@
-# 🎬 VidGenius
+![VidGenius Banner](https://placehold.co/1200x400/0a0a0a/e5e7eb?text=VidGenius&font=manrope)
+
 
 <div align="center">
 
